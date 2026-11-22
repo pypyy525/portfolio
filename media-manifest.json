@@ -1,36 +1,8 @@
-[
-  {
-    "target": "assets-bundle.zip",
-    "parts": [
-      "assets-bundle.zip.part000",
-      "assets-bundle.zip.part001",
-      "assets-bundle.zip.part002"
-    ],
-    "unzip": true
-  },
-  {
-    "target": "assets/wanxiang-chaoqian.mp4",
-    "parts": [
-      "wanxiang-chaoqian.mp4.part000",
-      "wanxiang-chaoqian.mp4.part001",
-      "wanxiang-chaoqian.mp4.part002",
-      "wanxiang-chaoqian.mp4.part003",
-      "wanxiang-chaoqian.mp4.part004",
-      "wanxiang-chaoqian.mp4.part005",
-      "wanxiang-chaoqian.mp4.part006",
-      "wanxiang-chaoqian.mp4.part007",
-      "wanxiang-chaoqian.mp4.part008",
-      "wanxiang-chaoqian.mp4.part009",
-      "wanxiang-chaoqian.mp4.part010",
-      "wanxiang-chaoqian.mp4.part011"
-    ]
-  },
-  {
-    "target": "assets/bottle-diaries.mp4",
-    "parts": [
-      "bottle-diaries.mp4.part000",
-      "bottle-diaries.mp4.part001",
-      "bottle-diaries.mp4.part002"
-    ]
-  }
-]
+{
+  "storage": "github-release",
+  "tag": "portfolio-media-v1",
+  "archive": "portfolio-assets-v1.zip",
+  "url": "https://github.com/pypyy525/portfolio/releases/download/portfolio-media-v1/portfolio-assets-v1.zip",
+  "contents": "assets/",
+  "resume": "assets/zijun-fei-resume.pdf"
+}
